@@ -6,7 +6,7 @@
           <i
             style="font-weight: bold;
   color: rgb(221, 214, 204); left: 10px;"
-          >Coding-School-Libary</i>
+          >Coding-School-Library</i>
         </h1>
         <button
           style="padding: 5px; font-size:12px; border: 5px solid #c7bde2; right: 10px; position: absolute; box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.05);"
