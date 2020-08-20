@@ -103,7 +103,7 @@ export default {
   background-color: bisque;
 }
 
-@media (min-width: 250px) and (max-width: 650px) {
+@media (min-width: 300px) and (max-width: 500px) {
   h1 {
     font-size: 15px;
     left: 5px;

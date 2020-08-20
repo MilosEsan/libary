@@ -142,12 +142,12 @@ h3 {
   text-decoration: underline;
 }
 
-@media (min-width: 250px) and (max-width: 650px) {
+@media (min-width: 300px) and (max-width: 500px) {
   .custom-card {
     left: 30px;
     right: 30px;
-    min-width: 300px;
-    max-width: 400px;
+    width: 280px;
+   
   }
 
   select {
@@ -161,13 +161,16 @@ h3 {
       font-size: 20px;
     }
   }
+
+   .close {
+      margin: 3px;
+    }
 }
 
-@media (min-width: 650px) and (max-width: 950px) {
+@media (min-width: 500px) and (max-width: 950px) {
   .custom-card {
     left: 75px;
-    min-width: 450px;
-    max-width: 800px;
+    width: 450px;
   }
 
   select {
@@ -179,9 +182,6 @@ h3 {
     font-size: 15px;
     h2 {
       font-size: 20px;
-    }
-    .close {
-      margin: 3px;
     }
   }
 }
